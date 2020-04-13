@@ -4,8 +4,8 @@
   "description": "This module contains e2e tests based on postman (newman) simulating variety of cases for user login.",
   "dependencies": {
     "newman": "^4.6.0",
-    "newman-reporter-htmlextra": "^1.9.2",
-    "yargs": "^15.0.2"
+    "newman-reporter-htmlextra": "^1.13.2",
+    "yargs": "^15.3.1"
   },
   "devDependencies": {},
   "scripts": {
